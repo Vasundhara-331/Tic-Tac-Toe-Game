@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "homepage": "https://vasundhara-331.github.io/Tic-Tac-Toe-Game/", 
     "preview": "vite preview"
   },
   "dependencies": {
